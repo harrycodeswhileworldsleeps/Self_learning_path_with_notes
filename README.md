@@ -1,4 +1,4 @@
-## SAP Technical Consultant Materials
+## SAP Development Materials
 SQL with ABAP and AMDP comaprision uploaded 
 
 Note - also for the Table functions the methods that we use are
